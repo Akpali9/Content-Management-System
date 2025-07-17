@@ -39,7 +39,6 @@ export async function createPost(formData: FormData) {
       .replace(/[^a-z0-9]+/g, "-")
       .replace(/(^-|-$)/g, "")
   }
-
   // In a real app, you would save to database here
   console.log("Creating post:", postData)
 
