@@ -51,7 +51,7 @@ export function Header() {
                 <Avatar className="h-10 w-10">
                   <AvatarImage src="/placeholder.svg?height=40&width=40" alt="User" />
                   <AvatarFallback className="bg-gradient-to-br from-blue-500 to-purple-600 text-white">
-                    JD
+                    JP
                   </AvatarFallback>
                 </Avatar>
               </Button>
@@ -59,7 +59,7 @@ export function Header() {
             <DropdownMenuContent className="w-56" align="end" forceMount>
               <DropdownMenuLabel className="font-normal">
                 <div className="flex flex-col space-y-1">
-                  <p className="text-sm font-medium leading-none">John Doe</p>
+                  <p className="text-sm font-medium leading-none">John paul</p>
                   <p className="text-xs leading-none text-muted-foreground">john@example.com</p>
                 </div>
               </DropdownMenuLabel>
