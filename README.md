@@ -13,7 +13,7 @@ A beautiful, modern Content Management System built with Next.js 14, featuring a
 - **Custom scrollbars** and hover effects
 
 ### 📝 Content Management
-- **Post creation and editing** with rich metadata
+- **Post creation and ediing** with rich metadata
 - **Auto-slug generation** from post titles
 - **Draft, review, and published** workflow
 - **Tag and category management**
