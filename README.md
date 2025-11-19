@@ -1,5 +1,4 @@
 
-
 # CMS Pro - Modern Content Management System
 
 A beautiful, modern Content Management System built with Next.js 14, featuring a stunning UI with dark/light theme support and comprehensive content management capabilities.
@@ -19,6 +18,7 @@ A beautiful, modern Content Management System built with Next.js 14, featuring a
 - **Draft, review, and published** workflow
 - **Tag and category management**
 - **SEO-friendly URL slugs**
+
 
 ### 👥 User Management
 - **Role-based permissions** (Admin, Editor, Author, Subscriber)
