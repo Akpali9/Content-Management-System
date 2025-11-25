@@ -18,6 +18,7 @@ A beautiful, modern Content Management System built with Next.js 14, featuring a
 - **Draft, review, and published** workflow
 - **Tag and category management**
 - **SEO-friendly URL slugs**
+- 
 
 
 ### 👥 User Management
