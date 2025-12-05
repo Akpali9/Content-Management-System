@@ -7,6 +7,7 @@ A beautiful, modern Content Management System built with Next.js 14, featuring a
 
 ## ✨ Features
 
+
 ### 🎨 Beautiful Modern UI
 - **Glass morphism design** with backdrop blur effects
 - **Dark/Light theme switching** with system preference detection
