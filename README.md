@@ -23,6 +23,7 @@ A beautiful, modern Content Management System built with Next.js 14, featuring a
 - 
 
 
+
 ### 👥 User Management
 - **Role-based permissions** (Admin, Editor, Author, Subscriber)
 - **User creation with validation**
